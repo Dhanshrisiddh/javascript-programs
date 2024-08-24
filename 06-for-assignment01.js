@@ -6,7 +6,7 @@ for (let index = 5; index <= 15; index++) {
     console.log(index);
 }
 
-//WAP tp print number from 50 to 40 by decrementing 1
+//WAP to print number from 50 to 40 by decrementing 1
 console.log("=====================WAP tp print number from 50 to 40 by decrementing 1====================");
 
 for (let index = 50; index >= 40; index--) {
